@@ -1,5 +1,5 @@
 # Real Estate Price Predictor 
-## This is a python application that uses Regression models like Linear Regression, Lasso Regression, Tree Models, Ensemble Models and Pipelines to reduce the Root Mean Square Error (RMSE) on the features to predict the correct label (Price)
+## This is a python application that uses Regression models like Linear Regression, Lasso Regression, Tree Models, Ensemble Models, and Pipelines to reduce the Root Mean Square Error (RMSE) on the features to predict the correct label (Price). Libraries used - Scikit Learn, NumPy.
 
 ![Screenshot (1416)](https://user-images.githubusercontent.com/83175234/180841598-cca52699-ba96-473f-8b21-231c0d9cf6c2.png)
 ![Screenshot (1417)](https://user-images.githubusercontent.com/83175234/180841599-d6ac6c3a-d7e0-4b2e-af12-d304a36c71b9.png)
